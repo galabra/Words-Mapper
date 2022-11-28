@@ -7,6 +7,3 @@ This app infinitely crawls multiple Wikipedia articles simultaneously and maps t
 To run this project, the following libraries were used:
 Selenium Server Standalone 3.8.1, 
 Sqlite JDBC 3.8.11.2
-
-
-Copyright (c) 2018 Gal Abramovitz. All rights reserved.
